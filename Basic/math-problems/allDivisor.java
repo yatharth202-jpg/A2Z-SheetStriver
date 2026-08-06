@@ -1,4 +1,6 @@
-public class allDivisor {
+import java.util.*;
+
+public class allDivisor{
     class Solution { 
     public int[] divisors(int n) { 
         List<Integer> divisorList = new ArrayList<>();
